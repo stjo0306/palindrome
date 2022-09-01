@@ -1,0 +1,15 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "test if string is a palindrome",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john steckelberg",
+  "license": "ISC",
+  "dependencies": {
+    "is-palindrome": "^0.3.0"
+  }
+}
