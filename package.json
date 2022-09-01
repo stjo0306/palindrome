@@ -9,7 +9,5 @@
   },
   "author": "john steckelberg",
   "license": "ISC",
-  "dependencies": {
-    "is-palindrome": "^0.3.0"
-  }
+  "dependencies": {}
 }
