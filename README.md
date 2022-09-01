@@ -6,5 +6,6 @@ To run the code use the following command from within the project directory:
 
 `npm start`
 
+
 To modify the strings being used for testing the code update the code in `input.js` found
   in the root directory of the project.
