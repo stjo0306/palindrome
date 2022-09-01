@@ -1,10 +1,5 @@
 const { myIsPalindrome } = require('./palindrome');
-
-const testInputs = [
-  'racecar',
-  'noon',
-  'hello world',
-];
+const { testInputs } = require('../inputs');
 
 console.log('Using my palindrome detector module\n');
 testInputs.forEach((input) => {
