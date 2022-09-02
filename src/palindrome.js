@@ -1,5 +1,6 @@
 const myIsPalindrome = (value) => {
-  const input = value.trim().toLowerCase();
+  // make lower case and remove any spaces
+  const input = value.trim().toLowerCase().replace(/\s/g, '');
   const count = Math.floor(input.length / 2);
 
   for(let i = 0; i < count; ++i) {
