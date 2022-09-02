@@ -12,4 +12,4 @@ Development:
 
 `npm install` to install the packages necessary to develop this program
 `npm start` will take in the user input and run the program
-`npm run build` will package the project into an executable file under the `dist/` directory
+`npm run build:all` will package the project into an executable file under the `dist/` directory
