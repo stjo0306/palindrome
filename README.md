@@ -2,10 +2,17 @@ This code was put together using
   NodeJS v14.20.0
   npm v6.14.17
 
-To run the code use the following command from within the project directory:
+Running the code in windows
 
-`npm start`
+open command prompt where the program is dropped and run the following command:
 
+`C:\path\to\executable>palindrome.exe <word>`
 
-To modify the strings being used for testing the code update the code in `input.js` found
-  in the root directory of the project.
+where `<word>` is the number you would like to sum.
+
+Development:
+
+`npm install` to install the packages necessary to develop this program
+`npm start <word>` will take in the user input and run the program
+`npm test` will execute the code with 'racecar' as input expected result is a palindrome
+`npm run build` will package the project into an executable file under the `dist/` directory
