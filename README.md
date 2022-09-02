@@ -8,7 +8,7 @@ open command prompt where the program is dropped and run the following command:
 
 `C:\path\to\executable>palindrome.exe <word>`
 
-where `<word>` is the number you would like to sum.
+where `<word>` is the word you would like to check.
 
 Development:
 
